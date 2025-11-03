@@ -79,6 +79,8 @@ header{
 
 /* Video */
 .videop{
+    width: 100%;
+    max-width: 1000px;
     text-align: center;
     margin: 100px auto;
     max-width: 1000px;
@@ -312,4 +314,5 @@ footer{
         padding: 10px;
         gap: 5px;
     }
+
 }
